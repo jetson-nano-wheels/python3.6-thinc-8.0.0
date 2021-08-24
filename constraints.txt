@@ -1,0 +1,5 @@
+# blis==0.7.4 # This causes build to fail. However,
+#               having blis installed prior to build
+#               leads to the build using the cached
+#               version, which seems to work.
+numpy==1.19.4
