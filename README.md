@@ -10,7 +10,7 @@ If you have `pip` (which should be run in a suitable virtual environment) the fo
 ```sh
 pip install 'https://github.com/jetson-nano-wheels/python3.6-numpy-1.19.4/releases/download/v0.0.2/numpy-1.19.4-cp36-cp36m-linux_aarch64.whl'
 pip install 'https://github.com/jetson-nano-wheels/python3.6-blis-0.7.4/releases/download/v0.0.1/blis-0.7.4-cp36-cp36m-linux_aarch64.whl'
-pip install 'https://github.com/jetson-nano-wheels/python3.6-thinc-8.0.8/releases/download/v0.0.1/thinc-8.0.8-cp36-cp36m-linux_aarch64.whl'
+pip install 'https://github.com/jetson-nano-wheels/python3.6-thinc-8.0.0/releases/download/v0.0.1/thinc-8.0.8-cp36-cp36m-linux_aarch64.whl'
 ```
 
 
